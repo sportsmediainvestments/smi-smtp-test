@@ -1,0 +1,7 @@
+D:\Desenvolvimento\smtpTest\smtpTest\bin\Debug\smtpTest.exe.config
+D:\Desenvolvimento\smtpTest\smtpTest\bin\Debug\smtpTest.exe
+D:\Desenvolvimento\smtpTest\smtpTest\bin\Debug\smtpTest.pdb
+D:\Desenvolvimento\smtpTest\smtpTest\obj\Debug\smtpTest.csprojAssemblyReference.cache
+D:\Desenvolvimento\smtpTest\smtpTest\obj\Debug\smtpTest.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\smtpTest\smtpTest\obj\Debug\smtpTest.exe
+D:\Desenvolvimento\smtpTest\smtpTest\obj\Debug\smtpTest.pdb
