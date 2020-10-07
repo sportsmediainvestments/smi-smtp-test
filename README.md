@@ -5,11 +5,6 @@ This is a simple SMTP command line tester tool to check SMTP settings for GMail 
 
 The tool is available in:
 
-- csahrp (C#)
+- csharp (C#)
 
 - python
-
-
-Guilherme andre
-
-http://guilhermeandre.com
